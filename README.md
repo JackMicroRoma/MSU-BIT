@@ -2,7 +2,7 @@
 description: Created by Mikriukov Evgenii, translated by Gleb Bannikov
 ---
 
-# Explanation Описание
+# Explanation
 
 I've set up this online platform to share what I believe are useful documents and information about our campus and university.
 
@@ -12,12 +12,12 @@ I hope you find at least some of it helpful :)
 
 P.s. GitBook has one limitation: content doesn't refresh properly when viewed through WeChat's built-in browser. I recommend copying the link and opening it in Chrome, Firefox, Edge, or another browser instead.
 
+# Описание
+
 Это онлайн платформа, на которой я решил опубликовать, как мне показалось, полезные документы и инфрмацию по поводу нашего кампуса и университета
 
-\
 Это не официальная информация, но некоторую часть я собрал во время работы в департаменте, но лучше заранее уточнять актуальность информации, написанной в этих инструкциях
 
-\
-Надеюсь часть из них будет вам полезной :)\
-\
+Надеюсь часть из них будет вам полезной :)
+
 P.s. Gitbook имеет один недостаток - информация плохо обновляется, если просматривать её через внутренний браузер Вичата, так что рекомендую копировать ссылку и открывать через Google, Firefox, Explorer и т.д.
